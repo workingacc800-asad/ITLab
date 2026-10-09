@@ -37,5 +37,3 @@ while True:
         ]
     )
     print(f"\nAI: {response.choices[0].message.content} ")
-    print("this is for testing purposeS")
-    print("this is for testing purposeS")
