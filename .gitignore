@@ -1,0 +1,10 @@
+#exclude environment variable and api keys
+.env
+
+#exclude virtual environment directory
+agentic_env/
+
+
+# Exclude Python bytecode cache
+__pycache__/
+*.pyc
